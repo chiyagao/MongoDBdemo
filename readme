@@ -1,0 +1,2 @@
+    这个初学MongoDB的一个demo项目。来自https://www.bilibili.com/video/BV15J41167GD?spm_id_from=333.999.0.0
+    初始步骤是，创建一个空文件夹，然后用Webstorm打开。在Webstorm中，打开Terminal，（node package manager）输入npm init --yes
